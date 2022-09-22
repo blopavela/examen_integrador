@@ -5,3 +5,5 @@ Rodrigo Sanchez
 Pablo Vela
 Jose Rodríguez
 Martín Ignacio Sebastiani
+
+GRUPO 2
