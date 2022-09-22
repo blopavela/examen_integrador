@@ -3,3 +3,4 @@
 Conil Fernando
 Rodrigo Sanchez
 Pablo Vela
+Jose Rodríguez
